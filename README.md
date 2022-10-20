@@ -5,7 +5,7 @@
 
 Provides a quick and easy way to create a website to showcase your name, country of origin and projects!
 
-Go to [This Page](https://https://emmanuel130.github.io/Cmara-Education-Volunteer-website-final/) to see demo 🙂.
+Go to [This Page](https://emmanuel130.github.io/Cmara-Education-Volunteer-website-final/) to see demo 🙂.
 
 ## About
 
